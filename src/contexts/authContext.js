@@ -52,7 +52,7 @@ const AuthProvider = ({children}) => {
     }
 
     const applyDummyCredential = () => {
-        dispatch({type: 'APPLY_DUMMY', payload: {username: 'niketmishra', password: 'niketmishra@123'}})
+        dispatch({type: 'APPLY_DUMMY', payload: {username: 'anandgautam', password: 'anandgautam@123'}})
     }
 
     // Login Function
