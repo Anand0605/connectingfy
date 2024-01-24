@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <img src="./public/favicon.ico" height="100" width="100" alt="logo"/>
-  <h1>Sociogram</h1>
+  <h1>Connectingfy</h1>
   <p>
     Sociogram is a Social Media App where you can share posts, ideas, learnings and many more...
   </p>
@@ -9,12 +9,12 @@
 
 ## Live Link
 
-[Sociogram](https://sociogramapp.netlify.app/)
+[Sociogram](https://connetingfy.netlify.app/)
 
 ## How to run the app locally?
 
 ```
-$ git clone https://github.com/niketvns/sociogram
+$ git clone https://github.com/Anand0605/connectingfy
 $ cd sociogram
 $ npm install
 $ npm start
@@ -70,24 +70,5 @@ $ npm start
 
 ## Live Link
 
-[Sociogram](https://sociogramapp.netlify.app/)
+[Sociogram](https://connetingfy.netlify.app/)
 
-[//]: # (## Demo Video)
-
-## Screenshot
-
-### User Feed Page
-
-![img.png](img.png)
-
-### User Profile Page
-
-![img_1.png](img_1.png)
-
-### Post Details Page
-
-![img_2.png](img_2.png)
-
-### Authentication Page
-
-![img_3.png](img_3.png)
