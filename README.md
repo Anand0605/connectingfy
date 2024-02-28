@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img src="./public/favicon.ico" height="100" width="100" alt="logo"/>
+  <!-- <img src="./public/favicon.ico" height="100" width="100" alt="logo"/> -->
   <h1>Connectingfy</h1>
   <p>
     Sociogram is a Social Media App where you can share posts, ideas, learnings and many more...
