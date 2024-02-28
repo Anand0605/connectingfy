@@ -3,19 +3,19 @@
   <!-- <img src="./public/favicon.ico" height="100" width="100" alt="logo"/> -->
   <h1>Connectingfy</h1>
   <p>
-    Sociogram is a Social Media App where you can share posts, ideas, learnings and many more...
+    Connectingfy is a Social Media App where you can share posts, ideas, learnings and many more...
   </p>
  </div>
 
 ## Live Link
 
-[Sociogram](https://connetingfy.netlify.app/)
+[Connectingfy](https://connetingfy.netlify.app/)
 
 ## How to run the app locally?
 
 ```
 $ git clone https://github.com/Anand0605/connectingfy
-$ cd sociogram
+$ cd Connectingfy
 $ npm install
 $ npm start
 ```
@@ -42,7 +42,7 @@ $ npm start
 - User can add or remove post from bookmarks.
 - Home Page where user can see their posts and the posts of friends followed by user.
 - Trending, Latest and Oldest Feature where user can sort the posts based on maximum likes and by date.
-- Explore Page where all the posts from all users on sociogram will be visible.
+- Explore Page where all the posts from all users on Connectingfy will be visible.
 - Liked Page where all the posts liked by user will be visible.
 - Bookmarks Page where all the posts bookmarked by user will be visible.
 - User can follow or unfollow other users.
@@ -70,5 +70,5 @@ $ npm start
 
 ## Live Link
 
-[Sociogram](https://connetingfy.netlify.app/)
+[Connectingfy](https://connetingfy.netlify.app/)
 
