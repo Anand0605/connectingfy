@@ -8,7 +8,7 @@ const Explore = () => {
 
     useEffect(()=>{
         window.scrollTo({top: 0, left: 0});
-        document.title = 'Explore | Sociogram'
+        document.title = 'Explore | Connectingfy'
     },[])
 
     let filteredPosts = posts

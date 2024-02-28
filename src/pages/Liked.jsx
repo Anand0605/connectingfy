@@ -8,7 +8,7 @@ const Liked = () => {
 
     useEffect(() => {
         window.scrollTo({top: 0, left: 0});
-        document.title = 'Likes | Sociogram'
+        document.title = 'Likes | Connecting'
     }, [])
 
     const checkInLikes = [...posts].reverse().filter(post => isInLiked(post?.likes?.likedBy, userDetails?._id))

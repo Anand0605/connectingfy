@@ -13,7 +13,7 @@ const Home = () => {
 
     useEffect(() => {
         window.scrollTo({top: 0, left: 0});
-        document.title = 'Home | Sociogram'
+        document.title = 'Home | connectingfy'
     }, [])
 
     const checkForHomePost = posts.filter(post => isFollow(post?.username) || post?.username === userDetails?.username)

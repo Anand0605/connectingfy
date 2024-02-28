@@ -9,7 +9,7 @@ const Bookmarks = () => {
 
     useEffect(()=>{
         window.scrollTo({top: 0, left: 0});
-        document.title = 'Bookmarks | Sociogram'
+        document.title = 'Bookmarks | Connectingfy'
     },[])
 
     const checkInBookmarks = posts.filter(post => isInBookmarks(post?._id))
