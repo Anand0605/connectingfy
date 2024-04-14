@@ -1,5 +1,5 @@
 import React, {useEffect, useRef, useState} from 'react';
-import profile from "../images/niket_img.png";
+// import profile from "../images/niket_img.png";
 import {MdAddPhotoAlternate, MdOutlineAddReaction, MdPermMedia} from "react-icons/md";
 import {AiOutlineClose} from "react-icons/ai";
 import {useGlobalAuth, useGlobalPosts, useGlobalUsers} from "../contexts";

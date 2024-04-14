@@ -1,4 +1,4 @@
-import profile from "../images/niket_img.png";
+// import profile from "../images/niket_img.png";
 import {MdAddPhotoAlternate} from "react-icons/md";
 import {MdOutlineAddReaction} from "react-icons/md";
 import React, {useState} from "react";

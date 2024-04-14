@@ -1,6 +1,6 @@
 import React, {useEffect, useRef, useState} from 'react';
 import {AiOutlineClose} from "react-icons/ai";
-import profile from "../images/niket_img.png";
+// import profile from "../images/niket_img.png";
 import {useGlobalUsers} from "../contexts";
 import {RiImageAddFill} from "react-icons/ri";
 

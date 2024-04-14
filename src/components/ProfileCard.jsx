@@ -6,6 +6,7 @@ import { useNavigate } from "react-router-dom";
 import { useGlobalAuth, useGlobalUsers } from "../contexts";
 import FollowModel from "./FollowModel";
 import { EditProfileModel } from "./index";
+import banner from "../images/banner.jpg"
 
 const ProfileCard = ({ username, myPosts }) => {
     const [isFollowerModel, setIsFollowerModel] = useState(false)
@@ -40,7 +41,7 @@ const ProfileCard = ({ username, myPosts }) => {
                     {
                         userData?.bannerUrl ?
                             <img src={userData?.bannerUrl} alt="banner" className={'w-full'} /> :
-                            <img src='https://res.cloudinary.com/dyzu4lzqz/image/upload/v1688213123/user_banner_default_v1fq2b.png' alt="banner" className={'w-full'} />
+                            <img src={banner} alt="banner" className={'w-full'} />
                     }
                 </div>
                 <div className="profile relative flex items-end justify-between px-2 sm:px-8 w-full">
