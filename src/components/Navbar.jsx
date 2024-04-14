@@ -22,7 +22,7 @@ const Navbar = () => {
                         <LuSearch/>
                     </div>
                     <input type="search" name="search" id="search" autoComplete={'off'}
-                           placeholder={'Search Sociogram...'}
+                           placeholder={'Search connetingfy...'}
                            className={'bg-sociogram outline-0 py-2 pr-4 pl-11 rounded-[20px] w-full sm:block autofill:bg-red-600'}
                            onClick={()=>setIsSearchModel(true)}
                     />
